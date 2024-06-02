@@ -1,0 +1,42 @@
+[
+	{
+		"ComponentType" : "component.strangematter.group",
+		"ComponentTypeReference" : "www.strangematter.org/componets/v1",
+		"ComponentTypeGuid" : "FakeGUIDforNOW",
+		"ComponentVersion" : 1,
+		"ComponentHash" : "E0A5F94FFFF6E932EF2B7E836EDAA627",
+		"Author" : "strangematter",
+		"AuthorIdentifier" : "greg.schleusner@hok.com",
+		"Context" : "myprojectdata.ifc5",
+		"Function" : "Group",
+		"ParentTypical" : "na",
+		"ParentArchitype" : "na",
+		"AuthuringSoftware" : "na",
+		"SourceData" : "",
+		"SourceDataDate" : "",
+		"SourceDataID" : "",
+		"SourceDateVersionId" : "",
+		"SourceDataItemId" : "",
+		"SourceDataItemVersionId" : "",
+		"EntityGUID" : "",
+		"ComponetGUID" : "126aa87d-4db9-4965-a916-21d352775ae9",
+		"ComponentVersionGUID" : "9b15f23a-5424-41c4-a788-262200afe9eb",
+		"VersionIncrement" : "",
+		"DateCreated" : "20240602125622.6046792",
+		"Name" : "",
+		"Classification" : "hok.facade.moveable_items_group",
+		"SequenceGUID" : "",
+		"SequenceName" : "",
+		"SequenceValue" : "",
+		"Option" : "",
+		"Phase" : "",
+		"Status" : "WIP",
+		"Active" : 1,
+		"ResponceToComponent" : "",
+		"HashDefinition" : "MD5",
+		"PayloadHash" : "F6A497B736A044C870AFA65E3E796B56",
+		"Payload" : {
+			"GroupMembers_ComponentGUIDS" : [ "126aa87d-4db9-4965-a916-21d352775ae9", "8185170e-82e7-4030-8178-535692852704", "001b7cf4-a026-4bb4-8737-8e0903ef66b4", "9c56d239-6913-487e-8e4c-a96312f60bef", "515d69b2-1358-4cb6-92a3-868ddcdf1407", "6d734f39-6ef8-421b-850e-fa90fd9bf07b", "d652f245-64e9-43d3-9edf-7102c4a827ed", "503a419e-fb5c-434b-91a7-94d5a2412dd8" ]
+		}
+	}
+]

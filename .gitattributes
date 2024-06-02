@@ -2,3 +2,5 @@
 *.ifc filter=lfs diff=lfs merge=lfs -text
 *.dwg filter=lfs diff=lfs merge=lfs -text
 *.rfa filter=lfs diff=lfs merge=lfs -text
+*.3dm filter=lfs diff=lfs merge=lfs -text
+*.fmw filter=lfs diff=lfs merge=lfs -text
